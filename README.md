@@ -2,7 +2,7 @@
 
 ## File Commands
 
-- find (./file/find.md)
+- [find](./file/find.md)
 - grep
 - awk
 - sed
