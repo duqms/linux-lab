@@ -25,3 +25,7 @@
 ## Resource
 
 - [resource](./resource/resource.md)
+
+## shell-script
+
+- [shell-script](./shell-script/shell-script.md)
