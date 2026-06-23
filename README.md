@@ -3,9 +3,7 @@
 ## File Commands
 
 - [find](./file/find.md)
-- [grep](./file/grep.md)
-- awk
-- sed
+- [sed](./file/sed.md)
 
 ## Process
 
