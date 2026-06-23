@@ -7,7 +7,7 @@
 
 ## Process
 
-- ssh
+- [ssh](./process/ssh.md)
 - ps
 - top
 - kill
