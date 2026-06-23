@@ -13,14 +13,14 @@
 
 ## Network
 
-- netstat
-- tcpdump
-- traceroute
+- [netstat](./network/netstat.md)
+- [tcpdump](./network/tcpdump.md)
+- [traceroute](./network/traceroute.md)
 
 ## Disk
 
-- df
-- du
+- [df](./disk/df.md)
+- [du](./disk/du.md)
 
 ## Resource
 
