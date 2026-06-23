@@ -8,13 +8,11 @@
 ## Process
 
 - [ssh](./process/ssh.md)
-- ps
-- top
-- kill
+- [ps](./process/ps.md)
+- [losf](.process/lsof.md)
 
 ## Network
 
-- ss
 - netstat
 - tcpdump
 - traceroute
@@ -23,4 +21,7 @@
 
 - df
 - du
-- inode
+
+## Resource
+
+- resource
